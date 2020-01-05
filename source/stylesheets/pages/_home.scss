@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 10px 0;
+  height: 750px;
+  margin: 0px;
+}
+
+.container {
+  padding-top: 130px;
+}
+
+.container h1 {
+  font-family: futura-pt-bold, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 200px;
+  color: #EDDCDC;
+  line-height: 80%;
+  margin: 50px;
+  text-decoration: underline;
+}
+
+.container h5 {
+  font-family: futura-pt-bold, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 110px;
+  color: #EDDCDC;
+  line-height: 80%;
+  text-align: center;
+  padding-top: 50px;
+  margin: 30px;
+}
