@@ -33,3 +33,84 @@
 .fa-heart {
   color: red;
 }
+
+//// 705px
+
+
+@media (max-width: 705px) {
+  .fa-linkedin, .fa-instagram, .fa-github {
+  font-size: 24px;
+  }
+}
+
+@media (max-width: 705px) {
+  .footer-copyright {
+  font-size: 15px;
+  }
+}
+
+@media (max-width: 705px) {
+  .footer-made {
+  font-size: 20px;
+  }
+}
+
+@media (max-width: 705px) {
+  .footer {
+  padding: 0px 25px;
+  height: 70px;
+  }
+}
+
+
+//// 610px
+
+
+@media (max-width: 610px) {
+  .fa-linkedin, .fa-instagram, .fa-github {
+  font-size: 20px;
+  }
+}
+
+@media (max-width: 610px) {
+  .footer-copyright {
+  font-size: 12px;
+  }
+}
+
+@media (max-width: 610px) {
+  .footer-made {
+  font-size: 15px;
+  }
+}
+
+//// 500px
+
+@media (max-width: 500px) {
+  .fa-linkedin, .fa-instagram, .fa-github {
+  font-size: 18px;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer-copyright {
+  font-size: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer-made {
+  font-size: 12px;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer {
+  padding: 0px 15px;
+  height: 60px;
+  }
+}
+
+
+
+
