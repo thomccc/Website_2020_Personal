@@ -1,4 +1,11 @@
 
 @import "pages/home";
 @import "layout/navbar";
-@import "layout/footer"
+@import "layout/footer";
+@import "pages/work_land";
+@import "pages/work_prhf";
+
+body {
+  height: 100vh;
+  width: 100vw;
+}

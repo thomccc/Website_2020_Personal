@@ -7,7 +7,7 @@
   font-family: futura-pt-bold, sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 85px;
+  font-size: 80px;
 
 }
 
@@ -42,16 +42,16 @@
 }
 
 
-
-
 .nav-link {
   text-decoration: none;
   color: #EDDCDC;
+  -webkit-text-stroke: 0px #EDDCDC;
 
 }
 
 .nav-link:hover {
   color: #3A4F41;
+  -webkit-text-stroke: 2px #EDDCDC;
 }
 
 nav{
@@ -142,11 +142,9 @@ li.nav-item {
 
 
 
-
-
-
-
-
+#green {
+  color: #3A4F41 !important;
+}
 
 
 
